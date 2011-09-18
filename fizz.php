@@ -13,4 +13,6 @@ for ($i=1; $i<101; $i++)
 	else { echo $i . "<br />\n"; }
 }
 
+//you must run this from a browser
+
 ?>
